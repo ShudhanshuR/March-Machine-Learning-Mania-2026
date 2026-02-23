@@ -54,4 +54,4 @@ Controlling for data leakage is crucial in sports analytics to maintain real-wor
 
 Probabilistic forecasting (0 to 1) provides a much better risk assessment than binary (Win/Loss) classification.
 
----------Shudhanshu Ranjan---------
+## ---------Shudhanshu Ranjan---------
